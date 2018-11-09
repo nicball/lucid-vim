@@ -32,6 +32,7 @@ syntax sync minlines=50
 highlight default link lucidConditional     Conditional
 highlight default link lucidRepeat          Repeat
 highlight default link lucidString          String
+highlight default link lucidType            Type
 highlight default link lucidComment         Comment
 highlight default link lucidConstant        Constant
 highlight default link lucidNumber          Number

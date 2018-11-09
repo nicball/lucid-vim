@@ -33,10 +33,11 @@ highlight default link lucidConditional     Conditional
 highlight default link lucidRepeat          Repeat
 highlight default link lucidString          String
 highlight default link lucidType            Type
+highlight default link lucidStructure       Structure
 highlight default link lucidComment         Comment
 highlight default link lucidConstant        Constant
 highlight default link lucidNumber          Number
-highlight default link lucidOperator        Special
+highlight default link lucidOperator        Operator
 highlight default link lucidStatement       Statement
 highlight default link lucidEscape          Special
 
